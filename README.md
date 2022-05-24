@@ -1,34 +1,43 @@
-# Number-Base-Converter-App with Python
+<h1 align="center" id="title">Number-Base-Converter-App with Python</h1>
 
-The application contains a simple function that display the actual function of a conversion of base number. This application is a user-friendly kind of system that can help you understand some new programming techniques.
+<p align="center"><img src="./ss.PNG" alt="project-image"></p>
 
+<p id="description">The application contains a simple function that display the actual function of a conversion of base number. This application is a user-friendly kind of system that can help you understand some new programming techniques.</p>
 
-## Features
-- Build In Calculator 
-- Decimal to Binary converter
-- Octal to binary
-- Hex to Binary converter
-- Binary to Decimal converter
-- binary to Octal
-- Binary to Hex converter
+  
+  
+<h2>🧐 Features</h2>
 
+Here're some of the project's best features:
 
+*   Build In Calculator
+*   Decimal to Binary converter
+*   Octal to binary
+*   Hex to Binary converter
+*   Binary to Decimal converter
+*   binary to Octal
+*   Binary to Hex converter
 
-## Screenshots
+<h2>🛠️ Installation Steps:</h2>
 
-![App Screenshot](./ss.PNG)
+<p>1. Install</p>
 
-
-## Run Locally
-
-```Python
-  Pip Install tkinter
+```
+Pip Install tkinter
 ```
 
+<h2>🍰 Contribution Guidelines:</h2>
 
-## 🚀 About Me
-I'm a full stack developer.
+Welcome to contribute
 
+  
+  
+<h2>💻 Built with</h2>
 
-## License
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+Technologies used in the project:
+
+*   Python
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the MIT
